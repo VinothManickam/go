@@ -6,7 +6,7 @@ A really simple Golong application
 Clone this repo.
 
 ```bash
-git clone https://github.com/VinothManickam/project3.git
+git clone https://github.com/VinothManickam/go.git
 cd go-hello-world
 ```
 ## Running
